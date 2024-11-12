@@ -1,0 +1,5 @@
+LINK API DATABASE northwind
+https://agus.invy.my.id/records/customers
+
+LINK API DATABASE PENJUALAN
+https://agus.invy.my.id/purchase/records/customers
